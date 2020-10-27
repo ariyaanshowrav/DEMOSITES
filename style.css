@@ -6,7 +6,18 @@ p{ font-weight:bold 600;
      color: blue;
 }
 h3:hover{
-color :royalblue
-font-weight:bold 800px;
+   font-size: 900px;
+   
+   background-color: darkred;
 
+}
+h1:hover{
+
+  background-color: forestgreen;
+}
+.son:hover {
+  font-weight: bold
+  font-style: ital
+  font-size:900px;
+  background-color:goldgreen;
 }
