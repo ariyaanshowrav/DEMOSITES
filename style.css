@@ -15,9 +15,18 @@ h1:hover{
 
   background-color: forestgreen;
 }
-.son:hover {
-  font-weight: bold
-  font-style: ital
-  font-size:900px;
-  background-color:goldgreen;
+p{
+  font: size 13px;
+  
+  color: darkviolet;
+
+}
+h3:hover{
+background-color:greenyellow;
+font-size: 40px;
+font-weight: bold;
+}
+h2{
+
+  color: lawngreens;
 }
